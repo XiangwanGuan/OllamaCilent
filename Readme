@@ -1,3 +1,7 @@
+本程序需要Python环境，请自行配置；
+本程序需要服务端，可以配置在本机或其他服务器；
+具体安装请参阅Ollama官网：https://ollama.com/
+
 包含的依赖：
 sys requests json PyQt6
 
