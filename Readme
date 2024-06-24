@@ -1,0 +1,9 @@
+self.api_url = "http://localhost:11434/api/generate"
+可以替换为本地其他服务器地址；
+
+self.current_model = "qwen2:0.5b"
+模型可以修改，此行为默认模型；
+
+model_names = ["qwen2:0.5b", "qwen2:1.5b", "qwen2:7b"]
+可以在服务端键入： ollama list 查询已存在的模型；
+
